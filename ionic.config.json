@@ -1,0 +1,7 @@
+{
+  "name": "BigBang",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
